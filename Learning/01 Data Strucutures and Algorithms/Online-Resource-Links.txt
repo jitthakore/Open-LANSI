@@ -7,3 +7,5 @@ https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
 2.) Specific implementation in Python:
 https://www.youtube.com/playlist?list=PLib7LoYR5PuDxi8TxxGKxMgf8b-jtoS3i
 
+3.) List of awesome books for cpp
+https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list?rq=1
